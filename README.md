@@ -1,16 +1,30 @@
 ## Hi there 👋
+## Hi, I’m Shubham Sushil Gavand
 
-<!--
-**Shubh21ss/Shubh21ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student focused on building practical software using Python and databases.  
+I prefer hands-on projects over theoretical learning.
 
-Here are some ideas to get you started:
+### What I work with
+- Languages: Python, SQL
+- Databases: MySQL, SQLite
+- Tools: Git, VS Code
+- Basics: Flask, Web scraping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Building small to mid-scale Python applications
+- Strengthening backend and database fundamentals
+- Learning how real-world software systems are structured
+
+### Projects
+- **GG1_AI_Assistant**  
+  JavaScript-based AI assistant project exploring basic automation and interaction logic.
+
+*(More projects will be added as they reach a usable, presentable state.)*
+
+### How I approach learning
+- Build first, polish later
+- Keep code readable and simple
+- Avoid unnecessary complexity and buzzwords
+
+### Connect
+- LinkedIn: www.linkedin.com/in/shubham-web-developer
