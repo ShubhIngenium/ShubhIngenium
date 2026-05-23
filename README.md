@@ -1,30 +1,54 @@
-## Hi there 👋
-## Hi, I’m Shubham Sushil Gavand
+# Hi, I'm Shubham Gavand
 
-BCA student focused on building practical software using Python and databases.  
-I prefer hands-on projects over theoretical learning.
+Python Developer focused on building practical desktop and web applications.
 
-### What I work with
-- Languages: Python, SQL
-- Databases: MySQL, SQLite
-- Tools: Git, VS Code
-- Basics: Flask, Web scraping
+Currently working on:
+- GameFit – PC Game Compatibility Checker
+- AI Resume Analyzer
+- Smart Complaint Management System
 
-### Current focus
-- Building small to mid-scale Python applications
-- Strengthening backend and database fundamentals
-- Learning how real-world software systems are structured
+## Tech Stack
 
-### Projects
-- **GG1_AI_Assistant**  
-  JavaScript-based AI assistant project exploring basic automation and interaction logic.
+### Languages
+- Python
+- SQL
+- JavaScript
+- HTML/CSS
 
-*(More projects will be added as they reach a usable, presentable state.)*
+### Backend & Database
+- Flask
+- SQLite
+- MySQL
 
-### How I approach learning
-- Build first, polish later
-- Keep code readable and simple
-- Avoid unnecessary complexity and buzzwords
+### Tools
+- Git & GitHub
+- VS Code
+- Web Scraping
+- REST APIs
 
-### Connect
-- LinkedIn: www.linkedin.com/in/shubham-web-developer
+## Featured Projects
+
+### GameFit
+A desktop + web-based game compatibility checker that analyzes PC hardware and compares it with game system requirements.
+
+Tech Used:
+- Python
+- Flask
+- RAWG API
+- SQLite
+- Tailwind CSS
+
+### AI Resume Analyzer
+Resume analysis tool that evaluates resumes and provides feedback using AI-based processing.
+
+### Smart Complaint Management System
+Complaint tracking and management system with admin and user modules.
+
+## Current Learning Focus
+- Backend Development
+- Database Design
+- API Integration
+- Software Architecture
+
+## Connect With Me
+- LinkedIn: YOUR_LINKEDIN
